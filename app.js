@@ -86,27 +86,6 @@ Ext.define('Demo.Viewport', {
                     backgroundColor: '#333'
                 },
                 imageSrc: 'samplepdf/6181508-10.jpg'
-            },
-            {
-                xtype: 'imageviewer',
-                style: {
-                    backgroundColor: '#333'
-                },
-                imageSrc: 'samplepdf/6181508-11.jpg'
-            },
-            {
-                xtype: 'imageviewer',
-                style: {
-                    backgroundColor: '#333'
-                },
-                imageSrc: 'samplepdf/6181508-12.jpg'
-            },
-            {
-                xtype: 'imageviewer',
-                style: {
-                    backgroundColor: '#333'
-                },
-                imageSrc: 'samplepdf/6181508-13.jpg'
             }
         ],
         listeners: {
